@@ -1,1 +1,3 @@
 # OracleDataSync
+
+调用LogMiner对Oracle日志进行解析，实现Oracle基于日志的数据同步,目前配置下源和目的端即可使用
